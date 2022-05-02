@@ -1,0 +1,5 @@
+﻿  Linked_List.cpp
+C:\Users\RAZER BLADE\source\repos\Linked_List\Linked_List.cpp(121): warning C4715: 'Linked_List<int>::find': not all control paths return a value
+C:\Users\RAZER BLADE\source\repos\Linked_List\Linked_List.cpp(104): warning C4172: returning address of local variable or temporary: temp
+C:\Users\RAZER BLADE\source\repos\Linked_List\Linked_List.cpp(118): warning C4172: returning address of local variable or temporary: temp
+  Linked_List.vcxproj -> C:\Users\RAZER BLADE\source\repos\Linked_List\Debug\Linked_List.exe
